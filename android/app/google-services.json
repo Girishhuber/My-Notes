@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231356051465",
+    "project_id": "my-cool-mynotesproject",
+    "storage_bucket": "my-cool-mynotesproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231356051465:android:57ca1177ea8fe2c2e148d8",
+        "android_client_info": {
+          "package_name": "com.fluttprojects.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKebeVVm780gvZTq4qFXzU2bmVmn1j5L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
